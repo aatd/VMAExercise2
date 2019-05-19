@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Greet me!</string>
+    <string name="main_name">Vorname: </string>
+    <string name="main_surname">Nachname: </string>
+    <string name="main_bgruessen">Begrüße mich!</string>
+    <string name="menue_dutzen">Dutze mich!</string>
+    <string name="menue_sietzen">Sietze mich!</string>
+    <string name="actionbar_morning">Morgen</string>
+    <string name="actionbar_day">Tag</string>
+    <string name="actionbar_evening">Abend</string>
+</resources>

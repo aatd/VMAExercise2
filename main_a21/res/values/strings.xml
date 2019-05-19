@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">a21</string>
+    <string name="register_latness">Registriere Verspätung</string>
+    <string name="reset_lateness">Verspätung zurücksetzen</string>
+    <string name="app_title">Verspätungzähler</string>
+    <string name="abends">Abends</string>
+    <string name="morgens">Morgens</string>
+</resources>
